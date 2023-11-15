@@ -31,3 +31,4 @@
  <a href="https://instagram.com/_igors4ntos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 </div>
 
+![Snake animation](https://github.com/IgorF3rreira/IgorF3rreira/blob/output/github-contribution-snake.svg)
